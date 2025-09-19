@@ -1,7 +1,5 @@
 # EdgeVoice - OpenAI-Compatible Edge-TTS API
 
-![GitHub repo size](https://img.shields.io/github/repo-size/OOMrConrado/EdgeVoice)
-![GitHub top language](https://img.shields.io/github/languages/top/OOMrConrado/EdgeVoice)
 
 Free OpenAI-compatible text-to-speech API using Microsoft Edge's TTS service.
 
